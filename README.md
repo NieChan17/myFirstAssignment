@@ -21,3 +21,5 @@ We have to solve many requirement, using our knowlarges to implement code:
 + Calculate army strengthen
 + Planning attack in a battlefield
 + Supply goods for army
+
+And here is some file that it's my solution for all problems. Just run it, you don't need to add any liberies
