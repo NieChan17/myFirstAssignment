@@ -23,3 +23,4 @@ We have to solve many requirement, using our knowlarges to implement code:
 + Supply goods for army
 
 And here is some file that it's my solution for all problems. Just run it, you don't need to add any liberies
+If it had something wrong, I have so sorry about that, bc this is my first try.
